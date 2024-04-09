@@ -1,5 +1,9 @@
 # IAM-Analyst-Job-Sim
 
+
+![Tata new](https://github.com/Abdurr224/IAM-Analyst-Job-Sim/assets/166424757/ae246c0e-4acb-4cd5-a44c-d0d4d6bb2833)
+
+
 The TATA Group Job Simulation Tasks
 
 My Role:
@@ -14,4 +18,4 @@ The Tasks:
 = Plan a comprehensive project for implementing an IAM platform at TechCorp, addressing integration challenges and ensuring secure access to digital resources.!
 
 
-![Tata new](https://github.com/Abdurr224/IAM-Analyst-Job-Sim/assets/166424757/3fc05f80-4c6f-4e7a-9a08-eb6c2fae390e)
+
