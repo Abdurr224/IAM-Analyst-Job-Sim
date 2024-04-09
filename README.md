@@ -7,11 +7,13 @@
 The TATA Group Job Simulation Tasks
 
 My Role:
+
 An identity and access management (IAM) developer, a key role within the cybersercurity team at Tata Consultancy Services (TCS).
 Your primary responsibilities include assessing IAM readiness, designing tailored solutions, and planning the implementation 
 of an IAM platform for TechCorp Enterprises, a global technology conglomerate.
 
 The Tasks:
+
 = Gain a strong grasp of IAM concepts and their significance in modern enterprises, ensuring you can effectively contribute to TechCorp's security objectives.
 = Evaluate TechCorp's readiness for IAM implementation.
 = Craft customised IAM solutions for TechCorp, aligning them with its business processes and objectives to enhance security.
