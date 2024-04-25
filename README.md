@@ -24,3 +24,9 @@ Achievements:
 - Delivered comprehensive documentation and presentations, including creation of IAM blueprints and automation whilst, showcasing the ability to communicate these technical concepts effectively.
 
 
+![Screenshot_11](https://github.com/Abdurr224/TATA-IAM-Analyst-Job-Sim/assets/166424757/57f51ca0-8355-4298-9fe6-bb5dd85e10c7)
+
+
+![Screenshot_12](https://github.com/Abdurr224/TATA-IAM-Analyst-Job-Sim/assets/166424757/63abf685-8c9b-40c9-bf5c-e23488fc152a)
+
+
